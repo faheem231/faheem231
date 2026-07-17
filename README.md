@@ -1,88 +1,162 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hi, I'm Mohammed Faheem
+<div align="center">
 
-### AI & ML Student | Python Developer | Data Science Learner
+# Hi 👋, I'm Mohammed Faheem
 
-I'm an Artificial Intelligence & Machine Learning student passionate about building practical software powered by AI.
+### AI & Machine Learning Student • Python Developer • Data Science Enthusiast
 
-Instead of collecting tutorials, I focus on building projects that strengthen my Python, data analysis, and machine learning skills.
+Building practical AI applications and improving my skills through real-world projects.
 
----
+<p>
+  <img src="https://komarev.com/ghpvc/?username=faheem231&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 🚀 Current Focus
-
-* 🐍 Mastering Python
-* 📊 Learning NumPy & Pandas
-* 🤖 Building AI-powered applications
-* 📚 Exploring Machine Learning
-* 💻 Writing clean, maintainable code
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
+
+- 🎓 B.Tech student in Artificial Intelligence & Machine Learning
+- 🐍 Currently mastering Python
+- 📊 Learning Data Analysis with NumPy & Pandas
+- 🤖 Interested in AI, Machine Learning and NLP
+- 🌱 Building projects instead of just following tutorials
+- 🎯 Goal: Become an AI/ML Engineer
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-* Python
-* JavaScript
-* SQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,sql" />
+</p>
 
 ### Libraries & Frameworks
 
-* NumPy
-* Pandas
-* Flask
-* scikit-learn
+<p>
+<img src="https://skillicons.dev/icons?i=flask,sklearn,tensorflow" />
+</p>
+
+**Also Learning**
+
+- NumPy
+- Pandas
 
 ### Tools
 
-* Git
-* GitHub
-* VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## ⭐ Featured Projects
+# 📚 Currently Learning
 
-### ResumeAI
-
-AI-powered resume analyzer that evaluates resumes, extracts information, and provides ATS-focused insights.
-
-### Data Analysis Projects
-
-Real-world datasets explored using Pandas and NumPy for cleaning, visualization, and analysis.
-
-### Python Projects
-
-A growing collection of Python applications built while improving problem-solving and software development skills.
+- Python Programming
+- NumPy
+- Pandas
+- Data Analysis
+- Machine Learning Fundamentals
+- Git & GitHub Best Practices
 
 ---
 
-## 📈 GitHub Stats
+# ⭐ Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faheem231\&show_icons=true\&theme=tokyonight\&hide_border=true)
+## 🤖 ResumeAI
 
-![GitHub Streak](https://streak-stats.demolab.com?user=faheem231\&theme=tokyonight\&hide_border=true)
+AI-powered Resume Analyzer that:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faheem231\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🎯 2026 Goals
-
-* Build 10+ high-quality projects
-* Master Python for AI & Data Science
-* Learn Machine Learning fundamentals
-* Contribute to open source
-* Secure an AI/ML internship
+- Extracts resume information
+- Performs ATS-style analysis
+- Suggests improvements
+- Uses NLP techniques for resume evaluation
 
 ---
 
-## 📫 Connect With Me
+## 📊 Data Analysis Projects
 
-* GitHub: https://github.com/faheem231
-* LinkedIn: Add your LinkedIn profile
-* Portfolio: Add your portfolio website
+A collection of real-world datasets explored using:
+
+- NumPy
+- Pandas
+- Data Cleaning
+- Data Visualization
 
 ---
 
-> "Learning by building. Improving one project at a time."
+## 🐍 Python Practice
+
+A repository containing:
+
+- Python fundamentals
+- Mini Projects
+- Problem Solving
+- Automation Scripts
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faheem231&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheem231&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=faheem231&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Faheem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=faheem231&theme=tokyo-night)](https://github.com/faheem231)
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Python
+- ✅ Complete NumPy & Pandas
+- ✅ Build 10+ High Quality Projects
+- ✅ Learn Machine Learning
+- ✅ Contribute to Open Source
+- ✅ Land an AI/ML Internship
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://github.com/faheem231">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://YOUR-PORTFOLIO.com">
+🌐 Portfolio
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Learning by building. Improving every day."
+
+⭐ Thanks for visiting my profile!
+
+</div>
